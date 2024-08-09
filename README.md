@@ -42,5 +42,5 @@ This weather app allows users to search for the current weather conditions of a 
 -------
 
 * Weather API: You can get you weather API from ``` https://openweathermap.org/ ```
-* 
+  
 
