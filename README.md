@@ -32,7 +32,7 @@ This weather app allows users to search for the current weather conditions of a 
 ## Usage
 -----
 
-1. Clone repository in your local machine: (https://github.com/pranjal22082001/weather-app.git)
+1. Clone repository in your local machine ``` https://github.com/pranjal22082001/weather-app.git```
 2. Run ``` npm install ```
 3. Run ``` npm run dev ```
 4. Click on the link
@@ -41,5 +41,6 @@ This weather app allows users to search for the current weather conditions of a 
 ## Credits
 -------
 
-* Weather API: You can get you weather API from [here](https://openweathermap.org/)
+* Weather API: You can get you weather API from ``` https://openweathermap.org/ ```
+* 
 
