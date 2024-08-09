@@ -1,0 +1,25 @@
+# .gitignore
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore node_modules and package-lock.json
+node_modules/
+package-lock.json
+
+# Ignore CSS and JavaScript map files
+*.css.map
+*.js.map
+
+# Ignore other unnecessary files
+*.log
+*.tmp
+*.bak
