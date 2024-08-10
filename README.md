@@ -39,7 +39,7 @@ This weather app allows users to search for the current weather conditions of a 
 
 ## Live 
 -----
-Want to have a live experience [Click here](https://weather-jadpkqypo-pranjal22082001s-projects.vercel.app/))
+Want to have a live experience [Click here](https://weather-jadpkqypo-pranjal22082001s-projects.vercel.app/)
   
 
 ## Credits
