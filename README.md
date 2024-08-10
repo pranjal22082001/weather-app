@@ -35,7 +35,11 @@ This weather app allows users to search for the current weather conditions of a 
 1. Clone repository in your local machine ``` https://github.com/pranjal22082001/weather-app.git```
 2. Run ``` npm install ```
 3. Run ``` npm run dev ```
-4. Click on the link
+4. Click on the port-link
+
+## Live 
+-----
+Want to have a live experience [Click here](weather-jadpkqypo-pranjal22082001s-projects.vercel.app)
   
 
 ## Credits
